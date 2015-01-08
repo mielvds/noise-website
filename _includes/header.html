@@ -1,10 +1,16 @@
 <header class="site-header">
 
   <div class="wrapper">
-    <img src="{{ site.url }}1-negative.png" />
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <h2 class="ws-location">{{ site.location }}</h2>
-    <h3 class="ws-date">{{ site.date }}</h3>
+    <div class="logo">
+      <img class="ws-pic" src="/assets/1-negative.png" />
+      <div class="title">
+      <h1 class="ws-title">{{site.acronym}}{{site.edition}}</h1>
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <h2 class="ws-location">{{ site.location }}</h2>
+      <h3 class="ws-date">{{ site.date }}</h3>
+    </div>
+  </div>
+
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">

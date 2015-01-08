@@ -41,6 +41,46 @@ $on-laptop:        800px;
         @content;
     }
 }
+/*
+body {
+  background: url("/assets/notebook_paper.jpg") repeat scroll center
+}
+*/
+.site-header {
+  position:fixed;
+  width:100%;
+}
+
+.logo {
+margin-top:20px;
+.ws-pic {
+  margin-top: 20px;
+  margin-left: -30px
+}
+
+.title {
+  margin-right: 25px;
+  width: 440px;
+  float:right;
+  text-align:right;
+
+  .ws-title {
+    font-family: OrangeJuice;
+    font-size: 80pt;
+    height: 100px;
+  }
+
+  .site-title {
+    line-height: 1.2;
+  }
+
+  .ws-date {
+    margin-top: -20px;
+  }
+}
+
+
+}
 
 
 
@@ -51,7 +91,24 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+
+
+.site-nav {
+  font-family: OrangeJuice;
+  .page-link {
+    border: 1px $text-color;
+    font-size:20pt;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+  }
+
+  .page-link:hover {
+    color: $text-color;
+    background-color: #ffffff;
+  }
+}
+
 @font-face {
-  font-family: myFirstFont;
-  src: url(sansation_light.woff);
+  font-family: OrangeJuice;
+  src: url(/assets/orangejuice.ttf);
 }
