@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Topics
-permalink: /topics/
+title: About
+permalink: /about/
 ---
-
 Goals
 =================
 Scientific research has a strong publication bias towards works with positive results, in the Semantic Web field this is not different. However, negative or inconclusive results are fundamental to the research process and can be just as valuable as positive results. This workshop provides a forum for such attempted approaches, methodologies, or implementations, while aiming at

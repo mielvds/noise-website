@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: page
+title: News
+permalink: /
 ---
-
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
+  <p>
+    Every Semantic Web researcher has been there; you spend days of work, but the results just don’t give the answer you were hoping for. The work ends up, like so many, part of the File Drawer Effect: they never get reported because of negative or inconclusive outcome. This occurs as a result of a publication bias towards positive results in Semantic Web. However, negative or inconclusive results are fundamental to the research process and can be just as valuable. This workshop provides a forum for such attempted approaches, methodologies, or implementations. Researchers are urged to report null, disappointing or inconclusive attempts in the Semantic Web and Linked Open Data research field.
+  </p>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -17,7 +18,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

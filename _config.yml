@@ -2,13 +2,17 @@
 title: Workshop on Negative or Inconclusive Results in Semantic Web
 acronym: NoISE
 edition: 2015
+conference: "ESWC"
+conference_url: "http://2015.eswc-conferences.org"
 location: Portoroz, Slovenia
 date: 31 May - 1 June
 email: noise15@easychair.org
-description: ""
-baseurl: "/topics/" # the subpath of your site, e.g. /blog/
+quote: "Those who fail to learn from the mistakes of their predecessors are destined to repeat them."
+quote_author: "George Santayana"
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.noiseworkshop.org" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
+twitter_hashtag: "#NoISE2015"
 #github_username:  jekyll
 
 # Build settings
