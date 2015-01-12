@@ -15,7 +15,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #000F55;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -68,6 +68,15 @@ margin-top:20px;
     font-family: OrangeJuice;
     font-size: 80pt;
     height: 100px;
+
+    a {
+      color: $text-color
+    }
+
+    a:hover {
+      text-decoration: none;
+      color: $brand-color
+    }
   }
 
   .site-title {
@@ -125,6 +134,15 @@ blockquote:before {
 "syntax-highlighting"
 ;
 
+h1 {
+  color: $brand-color;
+}
+
+
+.site-title:hover {
+  color: $brand-color;
+  text-decoration: none
+}
 
 
 .site-nav {
@@ -132,15 +150,25 @@ blockquote:before {
   .page-link {
     border: 1px $text-color;
     font-size:20pt;
-    padding: 5px 5px 5px 5px;
+    padding: 10px 10px 10px 10px;
     border-radius: 10px;
   }
 
   .page-link:hover {
-    background-color: #dfdfdf;
+    color: $brand-color;
     text-decoration: none;
   }
+
+  .active {
+    background-image: url("/assets/circle.png");
+    background-size: 113% 115%;
+    background-position: center;
+  }
 }
+
+
+
+
 
 @font-face {
   font-family: OrangeJuice;

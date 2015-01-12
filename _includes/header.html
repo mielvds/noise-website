@@ -4,7 +4,7 @@
     <div class="logo">
       <img class="ws-pic" src="/assets/1-negative.png" />
       <div class="title">
-      <h1 class="ws-title">{{site.acronym}}{{site.edition}}</h1>
+      <h1 class="ws-title"><a href="{{ site.baseurl }}/">{{site.acronym}}{{site.edition}}</a></h1>
       <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
       <h2 class="ws-location"><a href="{{ site.conference_url }}">{{ site.conference }}</a>, {{ site.location }}</h2>
       <h3 class="ws-date">{{ site.date }}</h3>
@@ -22,9 +22,13 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for node in site.pages %}
+          {% if node.title %}
+          {% if page.url == node.url %}
+          <a class="page-link active" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+          {% else %}
+          <a class="page-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
+          {% endif %}
           {% endif %}
         {% endfor %}
       </div>
