@@ -149,8 +149,8 @@ h1 {
   font-family: OrangeJuice;
   .page-link {
     border: 1px $text-color;
-    font-size:20pt;
-    padding: 10px 10px 10px 10px;
+    font-size:19pt;
+    padding: 5px;
     border-radius: 10px;
   }
 
@@ -172,6 +172,27 @@ li {
   display:inline-block;
   padding: 20px;
 }
+}
+
+.post-content h3 {
+  font-size: 20px;
+}
+
+.blog-index {
+  display: block;
+  background-color: $grey-color-light;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  font-size: 10pt;
+  color: $brand-color;
+
+  .entry-title {
+    font-weight: bold;
+  }
 }
 
 
