@@ -21,7 +21,7 @@ A considerable effort is required to evaluate alternative approaches that not al
 **Well documented negative or inconclusive results** should
 
  - **reveal fundamental flaws and obstacles** in commonly used methods,
- - act as catalyst for **formalizing empirical knowledge**, and
+ - act as **catalyst for formalizing empirical knowledge**, and
  - **gain insights** that contribute to the progress of Semantic Web technologies.
 
 However, **publishing such negative results currently lacks incentives**, as authors may never get attributed or cited.
