@@ -10,7 +10,7 @@ We offer various forms to participate in the workshop:
 
 - **Glorious failures**
 
-  Short or extended papers, up to 6 and 12 pages, respectively. These evaluation papers should include:
+  Short or extended papers, up to six and twelve pages, respectively. These evaluation papers should include:
   1. description of used datasets;
   2. research questions and hypotheses;
   3. applied evaluation protocol, benchmarks or gold standards; and
@@ -20,9 +20,16 @@ We offer various forms to participate in the workshop:
 
 - **Confessions**
 
-  Extended abstracts or positions, up to two pages. Confessions describe **testimonies**, **short stories**, and **experiences** in a more informal fashion or **technical/development** issues that prevent the progress of the Semantic Web’s research.
+  Extended abstracts, up to two pages. Confessions describe **testimonies**, **short stories**, and **experiences** in a more informal fashion or **technical/development** issues that prevent the progress of the Semantic Web’s research.
 
-- **Abstracts** presenting questions or issues to be discussed during the workshop.
+- **Position Papers**
+
+  Extended abstracts, up to two pages.
+  Short essays describing your position on issues related to the workshop's topic. 
+
+- **Abstracts** 
+
+  A short, but otherwise free submission format that could include questions, proposals or or any other discussion topic relevant to be discussed during the workshop.
 
 All submissions need to explicitly discuss their relevance to the field. A focus on contributions to related works is desired.
 
