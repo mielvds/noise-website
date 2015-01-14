@@ -11,6 +11,7 @@ quote: "Those who fail to learn from the mistakes of their predecessors are dest
 quote_author: "George Santayana"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.noiseworkshop.org" # the base hostname & protocol for your site
+easychair: https://easychair.org/conferences/?conf=noise15
 #twitter_username: jekyllrb
 twitter_hashtag: "#NoISE2015"
 #github_username:  jekyll
