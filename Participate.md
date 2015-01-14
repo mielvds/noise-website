@@ -25,13 +25,17 @@ We offer various forms to participate in the workshop:
 - **Position Papers**
 
   Extended abstracts, up to two pages.
-  Short essays describing your position on issues related to the workshop's topic. 
+  Short essays describing your position on issues related to the workshop's topic.
 
-- **Abstracts** 
+- **Abstracts**
 
   A short, but otherwise free submission format that could include questions, proposals or or any other discussion topic relevant to be discussed during the workshop.
 
 All submissions need to explicitly discuss their relevance to the field. A focus on contributions to related works is desired.
+
+Submission Guidelines and Publication
+=================================
+All papers will be formatted according to the [LNCS](http://www.springer.com/computer/lncs?SGWID=0-164-0-0-0) format. Submissions can be realized through the [easychair system](https://easychair.org/conferences/?conf=noise15). Accepted papers will be published online. More information about proceedings of the workshop will be announced soon.
 
 Important Dates
 ===============
