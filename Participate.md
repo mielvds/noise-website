@@ -40,7 +40,7 @@ All papers will be formatted according to the [LNCS](http://www.springer.com/com
 Important Dates
 ===============
 
-- Submission deadline: March 15, 2015
+- Submission deadline: <del>March 15, 2015</del> March 22, 2015
 - Notifications: April 10, 2015
 - Camera ready version: April 17, 2015
 - Workshop: 31 May or 1 June 2015
