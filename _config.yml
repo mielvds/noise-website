@@ -16,5 +16,28 @@ easychair: https://easychair.org/conferences/?conf=noise15
 twitter_hashtag: "#NoISE2015"
 #github_username:  jekyll
 
+gems: ['jekyll/scholar']
+
 # Build settings
 markdown: kramdown
+
+# Bibliography
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: papers.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

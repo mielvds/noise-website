@@ -6,4 +6,7 @@ permalink: /programme/
 ---
 Tentative Programme
 ==================
-TBD
+
+{% bibliography --file papers %}
+
+{% bibliography --file positions %}
