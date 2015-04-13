@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notification on the 12th of April"
+title:  "Notification delayed at least till 14th of April"
 date:   2015-04-13 16:35:00
 categories: news
 ---
