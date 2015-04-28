@@ -5,4 +5,4 @@ date:   2015-04-03 09:30:00
 categories: news
 ---
 
-Due to the submission deadline extension, we will try to send out the notication on April 12th.
+Due to the submission deadline extension, we will try to send out the notification on April 12th.

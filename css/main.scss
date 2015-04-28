@@ -201,6 +201,20 @@ a:visited {
   color: $grey-color-dark
 }
 
+table{
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+
+th{
+    display:none
+}
+
+td:first-child {
+    padding-right: 10px;
+    border-right:1px solid #000000;
+}
+
 
 @font-face {
   font-family: OrangeJuice;

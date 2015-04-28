@@ -17,6 +17,9 @@ twitter_hashtag: "#NoISE2015"
 #github_username:  jekyll
 
 gems: ['jekyll/scholar']
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 # Build settings
 markdown: kramdown
@@ -31,7 +34,8 @@ scholar:
 
   source: ./_bibliography
   bibliography: papers.bib
-  bibliography_template: "{{reference}}"
+  bibliography_template: <a href="/assets/papers/{{key}}.pdf">{{reference}}</a>
+  #bibliography_template: "{{reference}}"
 
   replace_strings: true
   join_strings:    true
