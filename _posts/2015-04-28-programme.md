@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accepted papers & programme"
-date:   2015-04-12 09:30:00
+date:   2015-04-28 19:30:00
 categories: news
 ---
 

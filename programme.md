@@ -24,8 +24,7 @@ Papers:
 {% bibliography --file positions %}
 
 
-
-###17:10   Breakout Discussion: Submission guidelines for reporting negative results
+###17:15   Breakout Discussion: Submission guidelines for reporting negative results
 
 ###17:50   Report back
 
