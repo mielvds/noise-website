@@ -7,7 +7,7 @@ categories: news
 
 We are happy to announce that 4 research papers and 2 position papers were accepted for NoISE:
 
-Long & short papers
+Research papers
 =================
 
 {% bibliography --file papers %}
