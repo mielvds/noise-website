@@ -15,7 +15,7 @@ Tentative Programme
 
 ###16:00   Break
 
-###16:40   Confessions session (3 x 2 min discussion slide + group discussion)
+###16:30   Confessions session (3 x 2 min discussion slide + group discussion)
 
 **Presentations:**
 
