@@ -17,9 +17,13 @@ Tentative Programme
 
 ###16:40   Confessions session (3 x 2 min discussion slide + group discussion)
 
+**Presentations:**
+
 Kjernsmo, K. How can scientific methods provide guidance for Semantic Web Research and Development?
 
-Papers:
+*This essay takes the view of Semantic Web as a revolutionary technology, and initiates an epistemological discussion on how current methodology is insufficient to gain knowledge on how to engineer it. It reviews some prominent directions in philosophy of science, and brings up the problem of evaluating approaches against a reality that is being created.*
+
+**Papers:**
 
 {% bibliography --file positions %}
 
