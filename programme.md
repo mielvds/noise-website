@@ -7,7 +7,7 @@ permalink: /programme/
 Tentative Programme
 ==================
 
-###14:30   Introduction talk by the chairs - Maria-Esther Vidal
+###14:30   Introduction talk - Maria-Esther Vidal
 
 ###14:40   Glorious failure session (4 x 10 min + 10 min discussion)
 
