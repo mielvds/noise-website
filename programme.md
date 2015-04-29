@@ -21,7 +21,7 @@ Tentative Programme
 
 Kjernsmo, K. How can scientific methods provide guidance for Semantic Web Research and Development?
 
-*This essay takes the view of Semantic Web as a revolutionary technology, and initiates an epistemological discussion on how current methodology is insufficient to gain knowledge on how to engineer it. It reviews some prominent directions in philosophy of science, and brings up the problem of evaluating approaches against a reality that is being created.*
+*This discussion topic takes the view of Semantic Web as a revolutionary technology, and initiates an epistemological discussion on how current methodology is insufficient to gain knowledge on how to engineer it. It reviews some prominent directions in philosophy of science, and brings up the problem of evaluating approaches against a reality that is being created.*
 
 **Papers:**
 
