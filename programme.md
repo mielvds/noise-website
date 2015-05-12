@@ -4,18 +4,18 @@ title: Programme
 weight: 4
 permalink: /programme/
 ---
-Tentative Programme
+Programme
 ==================
 
-###14:30   Introduction talk - Maria-Esther Vidal
+###14:30 | Introduction talk - Maria-Esther Vidal
 
-###14:40   Glorious failure session (4 x 10 min + 10 min discussion)
+###14:40 | Glorious failure session (4 x 10 min + 10 min discussion)
 
 {% bibliography --file papers %}
 
-###16:00   Break
+###16:00 | Break
 
-###16:30   Confessions session (3 x 2 min discussion slide + group discussion)
+###16:30 | Confessions session (3 x 2 min discussion slide + group discussion)
 
 **Presentations:**
 
@@ -28,8 +28,8 @@ Kjernsmo, K. How can scientific methods provide guidance for Semantic Web Resear
 {% bibliography --file positions %}
 
 
-###17:15   Breakout Discussion: Submission guidelines for reporting negative results
+###17:15 | Breakout Discussion: Submission guidelines for reporting negative results
 
-###17:50   Report back
+###17:50 | Report back
 
-###18:00   End
+###18:00 | End
