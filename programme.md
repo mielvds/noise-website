@@ -15,21 +15,21 @@ Programme
 
 ###16:00 | Break
 
-###16:30 | Confessions session (3 x 2 min discussion slide + group discussion)
+###16:30 | Confessions session
 
-**Presentations:**
+####Confession of a witness
 
 Kjernsmo, K. How can scientific methods provide guidance for Semantic Web Research and Development?
 
 *This discussion topic takes the view of Semantic Web as a revolutionary technology, and initiates an epistemological discussion on how current methodology is insufficient to gain knowledge on how to engineer it. It reviews some prominent directions in philosophy of science, and brings up the problem of evaluating approaches against a reality that is being created.*
 
-**Papers:**
+####Confession papers
 
 {% bibliography --file positions %}
 
 
-###17:15 | Breakout Discussion: Submission guidelines for reporting negative results
+###17:25 | Breakout Discussion: Submission guidelines for reporting negative results
 
-###17:50 | Report back
+###18:00 | Report back
 
-###18:00 | End
+###18:10 | End
