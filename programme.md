@@ -7,15 +7,15 @@ permalink: /programme/
 Programme
 ==================
 
-###14:30 | Introduction talk - Maria-Esther Vidal
+###14:00 | Introduction talk - Maria-Esther Vidal
 
-###14:40 | Glorious failure session (4 x 10 min + 10 min discussion)
+###14:10 | Glorious failure session (4 x 10 min + 10 min discussion)
 
 {% bibliography --file papers %}
 
-###16:00 | Break
+###15:30 | Break
 
-###16:30 | Confessions session
+###16:00 | Confessions session
 
 ####Confession of a witness (15 min)
 
@@ -28,8 +28,8 @@ Kjernsmo, K. How can scientific methods provide guidance for Semantic Web Resear
 {% bibliography --file positions %}
 
 
-###17:25 | Breakout Discussion: Submission guidelines for reporting negative results
+###16:55 | Breakout Discussion: Submission guidelines for reporting negative results
 
-###18:00 | Report back
+###17:35 | Report back
 
-###18:10 | End
+###17:45 | End
