@@ -17,11 +17,11 @@ Programme
 
 ###16:00 | Confessions session
 
-####Confession of a witness (15 min)
+####Interview with a witness (15 min)
 
 Kjernsmo, K. How can scientific methods provide guidance for Semantic Web Research and Development?
 
-*This discussion topic takes the view of Semantic Web as a revolutionary technology, and initiates an epistemological discussion on how current methodology is insufficient to gain knowledge on how to engineer it. It reviews some prominent directions in philosophy of science, and brings up the problem of evaluating approaches against a reality that is being created.*
+*This interview initiates an epistemological discussion on how current methodology is insufficient to gain knowledge on how to engineer the Semantic Web. It argues that the rate of progress is not up to par with that of natural sciences, that the community should think in terms of hypotheses and how their external validity must be established within larger theories, that also needs to be formulated. It then initiates a discussion that testing against a reality that does not yet exist is difficult, but for that reason, work on epistemology is needed. To motivate this work, it reviews some prominent directions in philosophy of science.*
 
 ####Confession papers (2 x 2 min + Group discussion)
 
