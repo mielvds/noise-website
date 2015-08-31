@@ -4,6 +4,10 @@ title: Programme
 weight: 4
 permalink: /programme/
 ---
+Proceedings
+==================
+The proceedings of NoISE2015 are published on CEUR: [http://ceur-ws.org/Vol-1435/](http://ceur-ws.org/Vol-1435/)
+
 Programme
 ==================
 
